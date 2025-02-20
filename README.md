@@ -1,2 +1,2 @@
 Excel-project-1
-This data visualisation project contains a dashboard made up of various pivot tables for easy understanding of the bike purchases by male and female buyers, different age brackets, across different states in the U.S as well as different income levels. The use of slicers was also troduced to make it easier to visualise the charts according to different datapoints
+This data visualization project features a dashboard comprising several pivot tables that facilitate easy analysis of bike purchases by male and female buyers, categorized by different age brackets and income levels across various states in the U.S. Additionally, slicers have been implemented to enhance the visualization of charts based on different data points.
